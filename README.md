@@ -1,2 +1,2 @@
 # repositorioDPL
-Repositorio para importar n DPL  mediante GitKraken
+Repositorio para importar en DPL  mediante GitKraken
